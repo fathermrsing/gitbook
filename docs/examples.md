@@ -1,6 +1,9 @@
 ---
 description: Real world examples of content published using GitBook.
 ---
+---
+description: Real world examples of content published using GitBook.:sdsd
+---
 
 # Examples
 
